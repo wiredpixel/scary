@@ -1,0 +1,13 @@
+name = "Vein Miner"
+filename = "vein_miner-3.01R.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjLZThtk/versions/RRCQ1FRD/vein_miner-3.01R.jar"
+hash-format = "sha512"
+hash = "12760d88bf7162ec41a976942d556b575b3ee8885eccf53aef3a66b059033064697532891d25e9401f27fc94a28412ea49743e24bde3d19bf13a3b9fa277dd26"
+
+[update]
+[update.modrinth]
+mod-id = "kjLZThtk"
+version = "RRCQ1FRD"

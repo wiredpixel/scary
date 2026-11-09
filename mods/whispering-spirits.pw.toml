@@ -1,0 +1,13 @@
+name = "Whispering Spirits"
+filename = "WhisperingSpirits-forge-1.20.1-v1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EVn5o9hS/versions/ioBc3VxB/WhisperingSpirits-forge-1.20.1-v1.4.0.jar"
+hash-format = "sha512"
+hash = "576a220699b184cb1c2502a7bb21f9cfd2b761efc0e49a42d1a38ab53c4d519eb2394b224f284400ad78bbeb9336293f12e27b5725769f657a312e90e0596a99"
+
+[update]
+[update.modrinth]
+mod-id = "EVn5o9hS"
+version = "ioBc3VxB"

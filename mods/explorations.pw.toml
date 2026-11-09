@@ -1,0 +1,13 @@
+name = "Explorations"
+filename = "explorations-forge-1.20.1-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/FvlKX2Ad/explorations-forge-1.20.1-1.6.5.jar"
+hash-format = "sha512"
+hash = "3530ad580891c15bf26602a1f96f90bdb47264b406584d78c8505bb09c18d6e9a91addf1566c5745c7e509fbbfd90ac4edf5f868b079d18f702ad28a17ceafee"
+
+[update]
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "FvlKX2Ad"
