@@ -6,6 +6,11 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
+metafile = true
+
+[[files]]
 file = "mods/basicweapons.pw.toml"
 hash = "053a08f46503c48b8f804a9b87f40d40fb64f3225686a61873d4f6fd01c3321c"
 metafile = true
@@ -126,6 +131,11 @@ hash = "762ee3d2dee5355be633bc365829c546800163ec4757f052be665601afe90fba"
 metafile = true
 
 [[files]]
+file = "mods/presence-an-ambient-horror-mod.pw.toml"
+hash = "3decaab99f9a3e7f5950a85437426741d24b29efe173111c1db99139c594ec14"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
+metafile = true
+
+[[files]]
+file = "mods/spooky-doors.pw.toml"
+hash = "a82f47d4982cdd5bde444d69c76f31ef83450c1ad4f2afb82446d652a7261f98"
 metafile = true
 
 [[files]]
