@@ -241,11 +241,6 @@ hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
 
 [[files]]
-file = "mods/zoomify-plus-plus.pw.toml"
-hash = "2e70957725381032150ea609e9b8bfa12d8beef78e547af3e501f15036b25dd1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
 metafile = true
