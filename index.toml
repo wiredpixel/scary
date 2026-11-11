@@ -196,6 +196,11 @@ hash = "fb50e9b1f925453bbbaed3fb99eaba22fcd490822da9c9a142e9aa3f1a6c1a67"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
+metafile = true
+
+[[files]]
 file = "mods/whispering-spirits.pw.toml"
 hash = "eacceb2ea139a2179c44b44f72e51002175b3605a65411ce8c2557f0dc01c6bb"
 metafile = true
