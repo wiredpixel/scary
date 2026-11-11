@@ -96,11 +96,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/in-your-world.pw.toml"
-hash = "78c45e46a17b4dfd3a6ed16f074c92f51f0e42d76c82554286aa2f631aecc793"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "658f2f78263d779d2c988d548b09af015c4ef8e51819acf5f18bb1bfd1c5ee82"
-metafile = true
-
-[[files]]
-file = "mods/the-anomaly.pw.toml"
-hash = "7fad47028e82cfad43d3e8267df8a9bda2d91ae7237f65f269d341e785264a8a"
 metafile = true
 
 [[files]]
